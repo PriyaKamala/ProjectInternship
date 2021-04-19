@@ -1,0 +1,55 @@
+.my-form
+{
+    
+    padding-top: 20px;
+    padding-bottom: 500px;
+   
+}
+
+.my-form .row
+{
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.login-form
+{
+    padding-top: 200px;
+    padding-bottom: 0px;
+}
+
+.login-form .row
+{
+    margin-left: 0;
+    margin-right: 0;
+}
+label{
+    font-size: 18px;
+    font-family: 'cambria';
+}
+input{
+    height: 30px;
+}
+.card-header{
+    font-size: 18px;
+}
+p{
+        font-size: 20px;
+        font-family: 'cambria';
+}
+small{
+    color: red;
+    font-size: 12px;
+}
+#bg
+{
+    background-image: url("/assets/img/la.jpg");
+    background-size: cover;
+   
+    background-repeat: no-repeat;
+
+}
+label
+{
+    color: aliceblue;
+}
